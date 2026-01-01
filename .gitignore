@@ -5,4 +5,4 @@ __pycache__/
 *.log
 .env
 .vscode/
-.DS_Store
+.DS_Storegmail_sender_report.txt
