@@ -62,4 +62,10 @@ These patterns are commonly used in backend and integration systems.
 ---
 
 ## 📂 Project Structure
+  - Gmail-Email-Categorization/
+│
+├── gmail_sender_analysis.py # Main application logic
+├── README.md # Documentation
+├── requirements.txt # Dependencies
+├── .gitignore # Security and hygiene
 
